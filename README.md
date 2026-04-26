@@ -7,15 +7,6 @@ I’m <strong>Vishesh Yadav</strong>, a passionate developer from India focused 
 </p>
 
 ---
-<h1>Hi 👋, I'm Vishesh Yadav</h1>
-
-<p><strong>Developer | AI & Machine Learning Student | Python Enthusiast</strong></p>
-
-<p>
-I’m <strong>Vishesh Yadav</strong>, a passionate developer from India focused on building real-world projects using Python, Machine Learning, and modern web technologies.
-</p>
-
----
 
 <h2>🚀 Languages and Tools I Use</h2>
 
