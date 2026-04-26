@@ -24,24 +24,7 @@ I’m <strong>Vishesh Yadav</strong>, a passionate developer from India focused 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42"/>
 </p>
 
----
 
-<h2>⚡️ Where to find me</h2>
-
-<p>
-<a href="https://www.linkedin.com/in/vishesh-yadav-hear" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Vishesh%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.facebook.com/visheshyadavhear" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Vishesh%20Yadav-blue?style=for-the-badge&logo=facebook"/>
-</a>
-
-<a href="https://www.instagram.com/vishesh_yadav_hear" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Vishesh%20Yadav-red?style=for-the-badge&logo=instagram"/>
-</a>
-</p>
----
 
 <h2>🧠 About Me</h2>
 
