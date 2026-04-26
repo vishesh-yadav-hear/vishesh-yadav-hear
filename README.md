@@ -1,10 +1,5 @@
 <h1>Hi 👋, I'm Vishesh Yadav</h1>
-
-<p><strong>Developer | AI & Machine Learning Student | Python Enthusiast</strong></p>
-
-<p>
-I’m <strong>Vishesh Yadav</strong>, a passionate developer from India focused on building real-world projects using Python, Machine Learning, and modern web technologies.
-</p>
+<p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
