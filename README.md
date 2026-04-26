@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1>Hi 👋, I'm Vishesh Yadav</h1>
+<p><strong>Developer | AI & Machine Learning Student | Python Enthusiast</strong></p>
 
-<!--
-**vishesh-yadav-hear/vishesh-yadav-hear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I’m <strong>Vishesh Yadav</strong>, a passionate developer from India focused on building real-world projects using Python, Machine Learning, and modern web technologies.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 Skills & Technologies</h2>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
+</p>
+
+---
+
+<h2>🧠 About Me</h2>
+
+<p>
+I’m Vishesh Yadav, a developer exploring Artificial Intelligence, Machine Learning, and full-stack web development.  
+I enjoy turning ideas into real-world applications and continuously improving my technical skills.
+</p>
+
+---
+
+<h2>🌐 Portfolio</h2>
+
+<p>
+🔗 <a href="https://visheshyadav.online" target="_blank">https://visheshyadav.online</a>
+</p>
+
+---
+
+<h2>⚡ Connect With Me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/vishesh-yadav-hear" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Vishesh%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/vishesh_yadav_hear" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Vishesh%20Yadav-red?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.facebook.com/visheshyadavhear" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Vishesh%20Yadav-blue?style=for-the-badge&logo=facebook"/>
+</a>
+</p>
+
+---
+
+<h2>⚡ Fun Fact</h2>
+
+<p>I turn ideas into real projects 🚀</p>
