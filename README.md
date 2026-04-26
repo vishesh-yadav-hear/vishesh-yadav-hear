@@ -24,7 +24,7 @@ I’m <strong>Vishesh Yadav</strong>, a passionate developer from India focused 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42"/>
 </p>
 
-
+---
 
 <h2>🧠 About Me</h2>
 
